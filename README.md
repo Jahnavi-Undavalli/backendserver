@@ -4,10 +4,10 @@ cd backend-server
 
 ### Install the dependencies:
 Make sure you have installed all the required dependencies.
-npm init -y
-npm install
-npm install express body-parser
-npm install --save-dev typescript @types/node @types/express ts-node
+- npm init -y
+- npm install
+- npm install express body-parser
+- npm install --save-dev typescript @types/node @types/express ts-node
 
 ### Compile TypeScript:
   Compile the TypeScript files into JavaScript.
