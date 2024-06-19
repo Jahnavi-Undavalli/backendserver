@@ -1,0 +1,32 @@
+{
+  "submissions": [
+    {
+      "name": "harshi",
+      "email": "harshi@gmail.com",
+      "phone": "93903848290",
+      "github_link": "https://harshi-9390384829",
+      "stopwatch_time": "00:00:07"
+    },
+    {
+      "name": "janu",
+      "email": "undavalli",
+      "phone": "9014752378",
+      "github_link": "http://jahnavi-9014752379",
+      "stopwatch_time": "00:00:17"
+    },
+    {
+      "name": "sai",
+      "email": "sai9014@gmail.com",
+      "phone": "9398352217",
+      "github_link": "http://sai-9398252217",
+      "stopwatch_time": "00:00:04"
+    },
+    {
+      "name": "navya",
+      "email": "navyak@gmail.com",
+      "phone": "8522969739",
+      "github_link": "http://navya",
+      "stopwatch_time": "00:00:04"
+    }
+  ]
+}
